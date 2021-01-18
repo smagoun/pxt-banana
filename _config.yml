@@ -1,6 +1,6 @@
 makecode:
-  target: microbit
-  platform: microbit
-  home_url: https://makecode.microbit.org/
+  target: adafruit
+  platform: adafruit
+  home_url: https://makecode.adafruit.com
 theme: jekyll-theme-slate
 include: assets
